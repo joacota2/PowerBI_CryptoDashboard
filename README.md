@@ -1,4 +1,3 @@
-# PowerBI_CryptoDashboard
-# CryptoDashboard #  
-##by Joaquin Gomez ##
+# PowerBI_CryptoDashboard  
+## by Joaquin Gomez
 
